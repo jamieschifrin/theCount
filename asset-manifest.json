@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/theCount%7D/static/css/main.aa172b62.chunk.css",
+    "main.js": "/theCount%7D/static/js/main.60841373.chunk.js",
+    "main.js.map": "/theCount%7D/static/js/main.60841373.chunk.js.map",
+    "runtime-main.js": "/theCount%7D/static/js/runtime-main.ba56402d.js",
+    "runtime-main.js.map": "/theCount%7D/static/js/runtime-main.ba56402d.js.map",
+    "static/js/2.e05bc41b.chunk.js": "/theCount%7D/static/js/2.e05bc41b.chunk.js",
+    "static/js/2.e05bc41b.chunk.js.map": "/theCount%7D/static/js/2.e05bc41b.chunk.js.map",
+    "index.html": "/theCount%7D/index.html",
+    "precache-manifest.b69a5238838451ae18e0403a9e5e2c62.js": "/theCount%7D/precache-manifest.b69a5238838451ae18e0403a9e5e2c62.js",
+    "service-worker.js": "/theCount%7D/service-worker.js",
+    "static/css/main.aa172b62.chunk.css.map": "/theCount%7D/static/css/main.aa172b62.chunk.css.map",
+    "static/js/2.e05bc41b.chunk.js.LICENSE.txt": "/theCount%7D/static/js/2.e05bc41b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/theCount%7D/static/media/count2.200074fb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba56402d.js",
+    "static/js/2.e05bc41b.chunk.js",
+    "static/css/main.aa172b62.chunk.css",
+    "static/js/main.60841373.chunk.js"
+  ]
+}
